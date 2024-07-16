@@ -1,0 +1,29 @@
+<% layout('layouts/boilerplate') %>
+    <h1>Dodaj film</h1>
+    <div class="row">
+        <div class="col-6">
+            <form class="validated-form" action="/addMovie" method="post" novalidate>
+                <label for="title" class="form-label">Tytuł filmu</label>
+                <input type="text" class="form-control" name="title" id="title" required>
+                <label for="releaseDate" class="form-lable">Rok wydania</label>
+                <input type="text" class="form-control" name="releaseYear" id="releaseYear" required>
+                <label for="runTime" class="form-label">Czas trwania</label>
+                <input type="text" class="form-control" name="runTime" id="runTime" />
+                <label for="genre" class="form-label">Gatunek</label>
+                <input type="text" class="form-control" id="genre" name="genre">
+                <label for="rating" class="form-label">Ocena</label>
+                <input type="number" class="form-range" min="1" max="10" id="rating" name="rating">
+                <label for="director">Reżyser</label>
+                <input type="text" class="form-control" id="director" name="director" />
+                <label for="description" class="form-label">Opis</label>
+                <textarea name="description" id="description" cols="30" rows="10" class="form-control"></textarea>
+                <label for="imgs" class="form-label">Obraz URL</label>
+                <div class="mb-3">
+                    <input type="text" id="imgs" name="imgs[]">
+                    <input type="text" id="imgs" name="imgs[]">
+                    <input type="text" id="imgs" name="imgs[]">
+                </div>
+                <button class="btn btn-success">Dodaj film</button>
+            </form>
+        </div>
+    </div>

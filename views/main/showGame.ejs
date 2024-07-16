@@ -1,0 +1,98 @@
+<% layout('layouts/boilerplate') %>
+
+    <div class="row">
+
+        <div class="col-12 col-md-8">
+            <div class="card mb-3">
+                <img src="<%=game.imgs[0] %>" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">
+                        <%=game.title %>
+                    </h5>
+                    <p class="card-text">
+                        <%=game.releaseYear %>
+                    </p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">
+                        <%=game.genre %>
+                    </li>
+                    <li class="list-group-item">
+                        <%=game.platforms %>
+                    </li>
+                    <li class="list-group-item">
+
+                        <%=game.rating %> / 10
+
+                    </li>
+                    <li class="list-group-item">
+                        <%=game.description %>
+                    </li>
+                    <li class="list-group-item">
+                        Cena: <%=game.price %> zł
+                    </li>
+
+                    <li class="list-group-item">
+                        Średnia użytkowników :
+                        <% let sum=0 %>
+                            <% for(review of game.reviews){ %>
+                                <%sum +=review.rating %>
+                                    <%} %>
+                                        <% const average=sum/game.reviews.length %>
+                                            <%if(isNaN(average)){%>
+                                                <span>Nie oceniono jeszcze</span>
+                                                <%}else{ %>
+                                                    <%=average.toFixed(2)%> <span
+                                                            style="color: rgba(255, 166, 0, 0.637); font-size: 1.25em;">&#9733;</span>
+                                                        <% console.log(isNaN(average)) %>
+                                                            <%} %>
+
+                    </li>
+
+                </ul>
+            </div>
+
+            <%if(!rentedGame){ %>
+                <button id="payment" class="btn btn-primary ">Wypożycz</button>
+                <%} else{ %>
+                    <span class="badge rounded-pill bg-primary me-5">W bibliotece</span>
+                    <form style="display: inline;"
+                        action="/rentedGames/<%=currentUser._id %>/<%=game._id %>?_method=DELETE" method="POST">
+                        <button class="btn btn-danger ms-5">Anuluj wypożyczenie </button>
+                    </form>
+                    <%} %>
+        </div>
+        <%- include("../partials/reviewGame") %>
+
+    </div>
+    <script>
+        var gameId = '<%- game._id%>'
+        var currentUser = '<%- currentUser._id%>'
+        const button = document.querySelector("#payment")
+        button.addEventListener("click", () => {
+            fetch(`/create-checkout-sessionGames/${gameId}/${currentUser}`, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                },
+                body: JSON.stringify({
+                    items: [
+                        { id: 1, quantity: 1 },
+
+                    ],
+
+                }),
+            })
+                .then(res => {
+                    if (res.ok) return res.json()
+                    return res.json().then(json => Promise.reject(json))
+                })
+                .then(({ url }) => {
+                    window.location = url
+                    console.log(url)
+                })
+                .catch(e => {
+                    console.error(e.error)
+                })
+        })
+    </script>

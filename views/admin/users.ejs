@@ -1,0 +1,45 @@
+<% layout('layouts/boilerplate') %>
+    <h1>Zarejestrowani Użytkownicy</h1>
+    <div>
+        <%for(let user of allUsers){%>
+            <a href="/users/<%=user._id %>">
+                <button class="users">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
+                        class="bi bi-person-circle" viewBox="0 0 16 16">
+                        <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0" />
+                        <path fill-rule="evenodd"
+                            d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1" />
+                    </svg>
+                    <%=user.username %>
+                </button>
+            </a>
+            <%} %>
+    </div>
+    <style>
+        h1 {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        .users {
+            display: inline-block;
+            margin-right: 5rem;
+            margin-bottom: 5rem;
+            border: 1px black solid;
+            font-size: 1.5rem;
+            border-radius: 10px;
+            padding: 0.5rem 2rem;
+            color: #252627;
+            transition: background-color 0.4s ease-in;
+        }
+
+        .users:hover {
+            background-color: #EABE7C;
+            cursor: pointer;
+
+        }
+
+        svg {
+            margin-right: 0.5rem;
+        }
+    </style>

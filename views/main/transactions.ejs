@@ -1,0 +1,62 @@
+<% layout('layouts/boilerplate') %>
+    <h1>Wypożyczenia użytkownika <%=user.username %>
+    </h1>
+    <ul>
+        <%for(transaction of user.transactionHistory){ %>
+
+            <%let color %>
+                <%if(transaction.includes("Wypożyczono")){ %>
+                    <% color="green" %>
+                        <%} else{%>
+                            <% color="red" } %>
+
+                                <li class="transaction <%=color %>">
+                                    <span>
+                                        <%=transaction %>
+                                            <% if(transaction.includes("Wypożyczono")){%><img
+                                                    src="https://static.thenounproject.com/png/2389056-200.png" alt=""
+                                                    class="image">
+                                                <%}else{ %>
+                                                    <img src="https://cdn-icons-png.flaticon.com/512/66/66847.png"
+                                                        alt="" class="image">
+                                                    <%} %>
+                                    </span>
+                                </li>
+                                <%} %>
+    </ul>
+    <style>
+        h1 {
+            margin-bottom: 3rem;
+            margin-left: 2rem;
+        }
+
+        .image {
+            width: 2.0em;
+            height: 2.0em;
+            margin-left: 2%;
+
+        }
+
+        .transaction {
+
+            width: 60%;
+            border-radius: 12px;
+            border: 3px solid;
+            border-color: rgb(8, 50, 175);
+            padding: 10px;
+            margin-bottom: 5%;
+            font-size: 1.1rem;
+        }
+
+        ul {
+            list-style-type: none;
+        }
+
+        .red {
+            border-color: red;
+        }
+
+        .green {
+            border-color: green;
+        }
+    </style>

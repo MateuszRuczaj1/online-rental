@@ -1,0 +1,467 @@
+[
+    {
+        "Title": "Avatar",
+        "Released": "15 gru 2009",
+        "Rating": "7.9",
+        "Runtime": "2h 42min",
+        "Genre": "Akcja, Sci-Fi",
+        "Director": "James Cameron",
+        "Description": "Jake, sparaliżowany były komandos, zostaje wysłany na planetę Pandora, gdzie zaprzyjaźnia się z lokalną społecznością i postanawia jej pomóc.",
+        "Imgs": [
+            "https://s3-eu-west-2.amazonaws.com/kmag/articles/62796aa227a6443a23b94fb9/the-avatar-sequels-cost-1-billion-to-produce_6q9u.h720.jpg",
+            "https://r-scale-b0.dcs.redcdn.pl/scale/o2/n/tvod/upload/vod/2651/images/8938?dsth=720&dstw=1280&srcmode=0&srcx=0&srcy=0&quality=80&type=1&srcw=1/1&srch=1/1",
+            "https://icdn.cda.pl/vid/thumbs/6243b42100b0c42ef93481b446032d2d-561.jpg_ooooxooxox_1280x720.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Spider-Man",
+        "Released": "21 cze 2002",
+        "Rating": "7.0",
+        "Runtime": "2h 1min",
+        "Genre": "Akcja, Sci-Fi",
+        "Director": "Sam Raimi",
+        "Description": "Nastoletni Peter Parker zmienia się w Spidermana, gdy mieszkańcom zagraża szalony Zielony Goblin.",
+        "Imgs": [
+            "https://images.mubicdn.net/images/film/3420/cache-10120-1644229270/image-w1280.jpg",
+            "https://gencinexin.com/media/2014/02/spiderman-0-1-1280x720.jpg",
+            "https://weliveentertainment.com/wp-content/uploads/2019/06/Spider-Man-2-15th-Anniversary.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Titanic",
+        "Released": "13 lut 1998",
+        "Rating": "7.7",
+        "Runtime": "3h 14min",
+        "Genre": "Dramat, Romans",
+        "Director": "James Cameron",
+        "Description": "Rok 1912, brytyjski statek Titanic wyrusza w swój dziewiczy rejs do USA. Na pokładzie emigrant Jack przypadkowo spotyka arystokratkę Rose.",
+        "Imgs": [
+            "https://www.zastavki.com/pictures/1280x720/2014/Movies_Stills_from_Titanic_085398_26.jpg",
+            "https://cdn1.naekranie.pl/media/cache/amp/2017/09/titanic-still.jpg",
+            "https://hips.hearstapps.com/hmg-prod/images/rah-25746898550.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Władca Pierścieni: Powrót Króla",
+        "Released": "01 sty 2004",
+        "Rating": "8.4",
+        "Runtime": "3h 21min",
+        "Genre": "Fantasy, Przygodowy",
+        "Director": "Peter Jackson",
+        "Description": "Zwieńczenie filmowej trylogii wg powieści Tolkiena. Aragorn jednoczy siły Śródziemia, szykując się do bitwy, która ma odwrócić uwagę Saurona od podążających w kierunku Góry Przeznaczenia hobbitów.",
+        "Imgs": [
+            "https://i.ytimg.com/vi/7kso29-Fp6o/maxresdefault.jpg",
+            "https://www.gry-online.pl/i/h/22/411154561.jpg",
+            "https://r-scale-3d.dcs.redcdn.pl/scale/o2/n/tvod/upload/vod/2975/images/10261?dsth=720&dstw=1280&srcmode=0&srcx=0&srcy=0&quality=80&type=1&srcw=1/1&srch=1/1"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Obecność",
+        "Released": "26 lip 2013",
+        "Rating": "7.2",
+        "Runtime": "1h 52min",
+        "Genre": "Horror",
+        "Director": "James Wan",
+        "Description": "Słynna para badaczy zjawisk paranormalnych zostaje poproszona o pomoc rodzinie, którą terroryzuje potężny demon.",
+        "Imgs": [
+            "https://wallscloud.net/img/resize/1280/720/MM/2016-12-08-the-conjuring-movie-vmWV.jpg",
+            "https://www.joblo.com/wp-content/uploads/2021/04/conjuring-2-cross-fb-1280x720.jpg",
+            "https://assets-prd.ignimgs.com/2022/06/25/conjuring-thumbnail-1656120036336.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Matrix",
+        "Released": "13 sie 1999",
+        "Rating": "8.5",
+        "Runtime": "2h 16min",
+        "Genre": "Akcja, Sci-Fi",
+        "Director": "Lilly Wachowski, Lana Wachowski",
+        "Description": "Haker komputerowy Neo dowiaduje się od tajemniczych rebeliantów, że świat, w którym żyje, jest tylko obrazem przesyłanym do jego mózgu przez roboty.",
+        "Imgs": [
+            "https://d.wpimg.pl/344213379--1950907674/matrix.jpg",
+            "https://images.hdqwalls.com/download/matrix-5k-zk-1280x720.jpg",
+            "https://sm.ign.com/t/ign_pl/screenshot/default/the-matrix-reboot-screenwriter-says-no-one-could-or-should-r_5vus.1280.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Hobbit: Niezwykła podróż",
+        "Released": "25 gru 2012",
+        "Rating": "7.6",
+        "Runtime": "2h 50min",
+        "Genre": "Fantasy, Przygodowy",
+        "Director": "Peter Jackson",
+        "Description": "Hobbit Bilbo Baggins, przy udziale czarodzieja Gandalfa, dołącza do kompanii krasnoludów pod dowództwem Thorina Dębowej Tarczy. Celem ich wyprawy jest wydarcie Samotnej Góry i jej bogactw spod władzy smoka Smauga.",
+        "Imgs": [
+            "https://programtv.naziemna.info/images/moviedb/00049/49051/tlo/hobbit-niezwyk%C5%82a-podr%C3%B3%C5%BC---backdrop-w1280.jpg",
+            "https://trafficfilms.pl/wp-content/uploads/2013/01/Hobbit-Talkiena-w-ekranizacji-Petera-Jacksona2.jpg",
+            "https://static.sweet.tv/images/cache/movie_banners/BDJFCEQCOBWCAAQ=/10450-the-hobbit-an-unexpected-journey_1280x720.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Milczenie Owiec",
+        "Released": "31 gru 1991",
+        "Rating": "8.5",
+        "Runtime": "1h 58min",
+        "Genre": "Thriller, Kryminał",
+        "Director": "Jonathan Demme",
+        "Description": "Seryjny morderca i inteligentna agentka łączą siły, by znaleźć przestępcę obdzierającego ze skóry swoje ofiary.",
+        "Imgs": [
+            "https://r-scale-69.dcs.redcdn.pl/scale/o2/n/tvod/upload/vod/1540/images/4863?dsth=720&dstw=1280&srcmode=0&srcx=0&srcy=0&quality=80&type=1&srcw=1/1&srch=1/1",
+            "https://s9.tvp.pl/images2/9/b/1/uid_9b144a55c66a88550a6e5dc2c8903c181582802138487_width_1280_play_0_pos_0_gs_0_height_720.jpg",
+            "https://image.tmdb.org/t/p/w1280/pI9B4wppGflpsOD2T6rxgC5Clmz.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Piątek 13-go",
+        "Released": "22 maj 2009",
+        "Rating": "5.4",
+        "Runtime": "1h 37min",
+        "Genre": "Horror",
+        "Director": "Marcus Nipel",
+        "Description": "Grupa znajomych wybiera się do domu nad jeziorem Crystal Lake. Podczas weekendu zostają zaatakowani przez psychopatę.",
+        "Imgs": [
+            "https://ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/splay/2015/08/pi%C4%85tek-13-go.jpg",
+            "https://icdn.cda.pl/vid/thumbs/54e770b88a1586b65051268507637e19-8941.jpg_ooooxooxox_1280x720.jpg",
+            "https://cdn1.naekranie.pl/media/cache/amp/2017/02/friday-the-13th-2009.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Skazani na Shawshank",
+        "Released": "16 kwi 1995",
+        "Rating": "9.0",
+        "Runtime": "2h 22min",
+        "Genre": "Dramat,Kryminał",
+        "Director": "Frank Darabont",
+        "Description": "Adaptacja opowiadania Stephena Kinga. Niesłusznie skazany na dożywocie bankier, stara się przetrwać w brutalnym, więziennym świecie.",
+        "Imgs": [
+            "https://i.ytimg.com/vi/KCtRg5RpTz0/maxresdefault.jpg",
+            "https://icdn.cda.pl/vid/thumbs/195cb0431d7ec875ebc469aa047803c8-35211.jpg_ooooxooxox_1280x720.jpg",
+            "https://muzeumkinematografii.pl/wp-content/uploads/2023/08/Skazani-na-Shawshank-1280x720.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Shrek",
+        "Released": "13 lip 2001",
+        "Rating": "8.3",
+        "Runtime": "1h 32min",
+        "Genre": "Komedia, Familijny",
+        "Director": "Andrew Adamson, Vicky Jenson",
+        "Description": "By odzyskać swój dom, brzydki ogr z gadatliwym osłem wyruszają uwolnić piękną księżniczkę.",
+        "Imgs": [
+            "https://wallscloud.net/img/resize/1280/720/MM/2016-12-08-shrek-QAQ7.jpg",
+            "https://img.wprost.pl/img/kadr-z-filmu-shrek/ff/33/c7874a6b5b6a921d194f7f75dc06.png",
+            "https://www.gry-online.pl/i/h/22/408284596.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Amadeusz",
+        "Released": "05 lis 2010",
+        "Rating": "8.3",
+        "Runtime": "2h 38min",
+        "Genre": "Dramat,Muzyczny",
+        "Director": "Milos Forman",
+        "Description": "Dwudziestosześcioletni Mozart przybywa do Wiednia, by prezentować swoją twórczość. Jego obecność drażni nadwornego kompozytora Józefa II - Antonio Salieriego, co jest powodem rywalizacji między artystami.",
+        "Imgs": [
+            "https://s5.tvp.pl/images2/5/a/8/uid_5a871dbc4c0e4824bd09e4a94a5f411d_width_1280_play_0_pos_0_gs_0_height_720_tom-hulce-wcielil-sie-w-mozarta-w-mistrzowskim-filmie-formana-amadeusz-z-1984-roku-fot-image-capital-pictures-film-stills-forum.jpg",
+            "https://icdn.cda.pl/vid/thumbs/d14cd195cd3d27d09f697aa71f24bac7-63601.jpg_ooooxooxox_1280x720.jpg",
+            "https://icdn.cda.pl/vid/thumbs/e6d52881e338833c7310234c15b8b607-25201.jpg_ooooxooxox_1280x720.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Szklana Pułapka",
+        "Released": "06 sty 1989",
+        "Rating": "7.9",
+        "Runtime": "2h 11min",
+        "Genre": "Akcja, Kryminał",
+        "Director": "John McTiernan",
+        "Description": "Policjant rozprawia się z niebezpiecznymi terrorystami, którzy opanowali biurowiec. Stawką jest życie wielu osób.",
+        "Imgs": [
+            "https://programtv.naziemna.info/images/moviedb/00000/562/tlo/szklana-pu%C5%82apka---backdrop-w1280.jpg",
+            "https://s6.tvp.pl/images2/6/8/d/uid_68d0cf012943410c9029e5985c7f5c99_width_1280_play_0_pos_0_gs_0_height_720.png",
+            "https://programtv.naziemna.info/images/moviedb/00001/1572/tlo/szklana-pu%C5%82apka-3---backdrop-w1280.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Symetria",
+        "Released": "17 wrz 2003",
+        "Rating": "7.9",
+        "Runtime": "1h 39min",
+        "Genre": "Dramat",
+        "Director": "Kondrad Niewolski",
+        "Description": "Młody mężczyzna zostaje niesłusznie skazany za rzekomą napaść na staruszkę. W więzieniu stara się dołączyć do grupy grypsujących.",
+        "Imgs": [
+            "https://programtv.naziemna.info/images/moviedb/00038/38530/tlo/symetria---backdrop-w1280.jpg",
+            "https://film.org.pl/wp-content/uploads/2021/01/symetria2.jpg",
+            "https://i.ytimg.com/vi/UWB_u7t_kjs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEogZSg3MA8=&rs=AOn4CLCrEkO2ZQMfchH22fZwDQOXIKE1tw"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Braveheart- Waleczne Serce",
+        "Released": "08 wrz 1995",
+        "Rating": "8.5",
+        "Runtime": "2h 57min",
+        "Genre": "Dramat,Historyczny",
+        "Director": "Mel Gibson",
+        "Description": "Żona Williama Wallace'a zostaje zamordowana przez angielskich żołnierzy. Zrozpaczony Szkot mści się na oprawcach i prowadzi rodaków do walki o odzyskanie wolności.",
+        "Imgs": [
+            "https://i.ytimg.com/vi/DxrvzRR0rIc/maxresdefault.jpg",
+            "https://programtv.naziemna.info/images/moviedb/00000/197/tlo/braveheart-waleczne-serce---backdrop-w1280.jpg",
+            "https://icdn.cda.pl/vid/thumbs/1d47b306a50617d556c000dddae8b88e-1501.jpg_ooooxooxox_1280x720.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Gwiezdne Wojny: Część IV - Nowa nadzieja",
+        "Released": "01 kwi 1974",
+        "Rating": "8.0",
+        "Runtime": "2h 1min",
+        "Genre": "Sci-fi, Przygodowy",
+        "Director": "George Lucas",
+        "Description": "Obi-Wan opowiada młodemu Luke'owi, że jego ojcem był potężny rycerz Jedi, który walczył w wojnach klonów.",
+        "Imgs": [
+            "https://r-scale-a0.dcs.redcdn.pl/scale/o2/n/tvod/upload/vod/192/images/501?dsth=720&dstw=1280&srcmode=0&srcx=0&srcy=0&quality=65&type=1&srcw=1/1&srch=1/1",
+            "https://icdn.cda.pl/vid/thumbs/4c716488ac424fe903b84d2adf2d4928-31.jpg_ooooxooxox_1280x720.jpg",
+            "https://icdn.cda.pl/vid/thumbs/72911b9822fd21eb417a6a4dd4ba7b7e-31.jpg_ooooxooxox_1280x720.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "V jak Vendetta",
+        "Released": "07 kwi 2006",
+        "Rating": "7.7",
+        "Runtime": "2h 12min",
+        "Genre": "Sci-Fi,Thriller",
+        "Director": "James McTeigue",
+        "Description": "W totalitarnej Anglii jedyną osobą walczącą o wolność jest bojownik przebrany za Guya Fawkesa – V, który pewnego dnia uwalnia z rąk agentów rządowych młodą kobietę.",
+        "Imgs": [
+            "https://icdn.cda.pl/vid/thumbs/ca6967be0d90b0113ade90470ef3282b-23351.jpg_ooooxooxox_1280x720.jpg",
+            "https://assets.mubicdn.net/images/film/3435/image-w1280.jpg?1627909272",
+            "https://images.hdqwalls.com/download/v-for-vendetta-4k-2n-1280x720.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Indiana Jones i Świątynia Zagłady",
+        "Released": "31 gru 1990",
+        "Rating": "7.7",
+        "Runtime": "1h 58min",
+        "Genre": "Przygodowy,Akcja",
+        "Director": "Steven Spielberg",
+        "Description": "Nieustraszony łowca przygód wyrusza na poszukiwanie świętego kamienia i mierzy się z członkami niebezpiecznej sekty.",
+        "Imgs": [
+            "https://i.ytimg.com/vi/eK4fQaQGCbA/maxresdefault.jpg",
+            "https://r-scale-d3.dcs.redcdn.pl/scale/o2/n/tvod/upload/vod/236/images/13154?dsth=720&dstw=1280&srcmode=0&srcx=0&srcy=0&quality=80&type=1&srcw=1/1&srch=1/1",
+            "https://programtv.naziemna.info/images/moviedb/00000/87/tlo/indiana-jones-i-%C5%9Bwi%C4%85tynia-zag%C5%82ady---backdrop-w1280.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Terminator",
+        "Released": "01 mar 1987",
+        "Rating": "8.0",
+        "Runtime": "1h 48min",
+        "Genre": "Akcja, Sci-Fi",
+        "Director": "James Cameron",
+        "Description": "Elektroniczny morderca zostaje wysłany z przyszłości do roku 1984, by zabić matkę przyszłego lidera rewolucji. W ślad za nim rusza Kyle Reese, który ma chronić kobietę.",
+        "Imgs": [
+            "https://cdn.wallpapersafari.com/6/13/ulcrg0.jpg",
+            "https://images.mubicdn.net/images/film/3430/cache-10127-1666598421/image-w1280.jpg",
+            "https://media.newyorker.com/photos/5995dae2413d5b0c6c1548af/16:9/w_1280,c_limit/Brody_Terminator..jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Wejście smoka",
+        "Released": "22 cze 1982",
+        "Rating": "7.9",
+        "Runtime": "1h 38min",
+        "Genre": "Sztuki walki,Kryminał",
+        "Director": "Robert Clouse",
+        "Description": "Agent Lee decyduje się wziąć udział w turnieju sztuk walki, by znaleźć dowody nielegalnej działalności organizatora imprezy.",
+        "Imgs": [
+            "https://programtv.naziemna.info/images/moviedb/00009/9461/tlo/wej%C5%9Bcie-smoka---backdrop-w1280.jpg",
+            "https://muzeumkinematografii.pl/wp-content/uploads/2023/06/Wejscie-smoka-1280x720.jpg",
+            "https://media.krakow.travel/photos/61889/xxl.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Lista Schindlera",
+        "Released": "04 mar 1994",
+        "Rating": "8.5",
+        "Runtime": "3h 17min",
+        "Genre": "Dramat,Wojenny",
+        "Director": "Steven Spielberg",
+        "Description": "Historia przedsiębiorcy Oskara Schindlera, który podczas II wojny światowej uratował przed pobytem w obozach koncentracyjnych 1100 Żydów.",
+        "Imgs": [
+            "https://icdn.cda.pl/vid/thumbs/a31befafd497f6b2974aac3226c02ce7-39601.jpg_ooooxooxox_1280x720.jpg",
+            "https://i.ytimg.com/vi/yeU9ciQ8a84/maxresdefault.jpg",
+            "https://i.ytimg.com/vi/QQhvww-c5Ms/maxresdefault.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "300",
+        "Released": "23 mar 2007",
+        "Rating": "7.9",
+        "Runtime": "1h 57min",
+        "Genre": "Historyczny, Wojenny",
+        "Director": "Zack Snyder",
+        "Description": "Opowieść o jednej z najsłynniejszych bitew w dziejach. Garstka Spartan staje przeciwko perskiej potędze.",
+        "Imgs": [
+            "https://occ-0-116-1001.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABauZQIUhGySKyorzHgb5PkDS7MJZXOZZFU9QaDeah8hbKwTngGWl2sZw7k8m4CTJSfOY9S93NlJZ_H8z6VlOFW0dDYFzz54NJQuJ.jpg?r=e6d",
+            "https://r-scale-5f.dcs.redcdn.pl/scale/o2/n/tvod/upload/vod/2976/images/10275?dsth=720&dstw=1280&srcmode=0&srcx=0&srcy=0&quality=80&type=1&srcw=1/1&srch=1/1",
+            "https://s1.dmcdn.net/v/8_bqs1KwVhRwsZZCo/x720"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Powrót do przyszłości III",
+        "Released": "25 maj 1990",
+        "Rating": "7.6",
+        "Runtime": "1h 58min",
+        "Genre": "Przygodowy,Western",
+        "Director": "James Cameron",
+        "Description": "Doktor Brown przenosi się na Dziki Zachód do roku 1885. Po dziewięciu miesiącach zostaje zastrzelony. Na pomoc rusza mu Marty.",
+        "Imgs": [
+            "https://programtv.naziemna.info/images/moviedb/00000/196/tlo/powr%C3%B3t-do-przysz%C5%82o%C5%9Bci-iii---backdrop-w1280.jpg",
+            "https://r-scale-1d.dcs.redcdn.pl/scale/o2/n/tvod/images/1/9ee51ef1-c79f-43f9-93d2-dff828262556/PRE_44000975_NCPGO20poster.jpg?dsth=720&dstw=1280&srcmode=0&srcx=0&srcy=0&quality=80&type=1&srcw=1/1&srch=1/1",
+            "https://icdn.cda.pl/vid/thumbs/a6ce39ddccb637771bc6d897c070d4ee-12511.jpg_ooooxooxox_1280x720.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Piła",
+        "Released": "25 lut 2005",
+        "Rating": "7.6",
+        "Runtime": "1h 40min",
+        "Genre": "Horror",
+        "Director": "James Wan",
+        "Description": "Dwóch mężczyzn budzi się przykutych do zardzewiałej rury w piwnicy. Zdają sobie sprawę, że są uczestnikami krwawej gry szaleńca.",
+        "Imgs": [
+            "https://icdn.cda.pl/vid/thumbs/999afe1a5fa3885955f05ce893c731a5.jpg_ooooxooxox_1280x720.jpg",
+            "https://i.ytimg.com/vi/oym7XF32Uf4/maxresdefault.jpg",
+            "https://assets-prd.ignimgs.com/2023/03/07/saw-2004-wtf-happened-to-this-horror-movie-featured-1280x720-1678202325189.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Interstellar",
+        "Released": "07 lis 2014",
+        "Rating": "7.7",
+        "Runtime": "2h 49min",
+        "Genre": "Akcja, Sci-Fi",
+        "Director": "Christopher Nolan",
+        "Description": "Byt ludzkości na Ziemi dobiega końca wskutek zmian klimatycznych. Grupa naukowców odkrywa tunel czasoprzestrzenny, który umożliwia poszukiwanie nowego domu.",
+        "Imgs": [
+            "https://images.hdqwalls.com/download/interstellar-movie-hd-1280x720.jpg",
+            "https://images.hdqwalls.com/download/interstellar-movie-wide-1280x720.jpg",
+            "https://media.gq-magazine.co.uk/photos/5d139495b6fee9b1fac9e6ef/16:9/w_1280,c_limit/Interstellar-02-GQ-30Oct14_pr_b.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Iron Man",
+        "Released": "30 kwi 2008",
+        "Rating": "7.7",
+        "Runtime": "2h 6min",
+        "Genre": "Akcja, Sci-Fi",
+        "Director": "Jon Favreau",
+        "Description": "Tony Stark buduje supernowoczesną zbroję. Multimiliarder postanawia walczyć ze złem jako Iron Man.",
+        "Imgs": [
+            "https://images.hdqwalls.com/download/iron-man-2008-di-1280x720.jpg",
+            "https://deadshirt.net/wp-content/uploads/2014/07/ironman.jpg",
+            "https://assets.mubicdn.net/images/film/27078/image-w1280.jpg?1445923660"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Ziemia Obiecana",
+        "Released": "21 lut 1975",
+        "Rating": "7.8",
+        "Runtime": "2h 59min",
+        "Genre": "Dramat, Historyczny",
+        "Director": "Andrzej Wajda",
+        "Description": "Trzej przyjaciele, Karol, Maks i Moryc, zakładają fabrykę w Łodzi, chcąc jak najszybciej dorobić się fortuny.",
+        "Imgs": [
+            "https://programtv.naziemna.info/images/moviedb/00000/511/tlo/ziemia-obiecana---backdrop-w1280.jpg",
+            "https://nhef.pl/upload/thumb/2020/09/maxresdefault-2-_auto_1400x1400.jpg",
+            "https://i.ytimg.com/vi/dq3szxH9Ikk/maxresdefault.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Sens Życia wg Monty Pythona",
+        "Released": "22 kwi 1983",
+        "Rating": "7.8",
+        "Runtime": "1h 47min",
+        "Genre": "Komedia",
+        "Director": "Terry Jones",
+        "Description": "Grupa Monty Pythona postanawia pokazać czym jest sens życia, ukazując je z różnych punktów widzenia.",
+        "Imgs": [
+            "https://i.ytimg.com/vi/1LjC_5nfG_4/maxresdefault.jpg",
+            "https://icdn.cda.pl/vid/thumbs/47914a7ad3bc794c937cbdaba66a49bf-181.jpg_ooooxooxox_1280x720.jpg",
+            "https://scera.org/wp-content/uploads/2018/03/Monty-Python-and-the-Holy-Grail-Movie-Wallpapers-8.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Ghost in the Shell",
+        "Released": "1995",
+        "Rating": "7.9",
+        "Runtime": "1h 23min",
+        "Genre": "Sci-Fi,Animowany",
+        "Director": "Mamoru Oshii",
+        "Description": "Para agentów poszukuje niebezpiecznego hakera znanego jako Władca Marionetek.",
+        "Imgs": [
+            "https://images.mubicdn.net/images/film/104/cache-90744-1608760349/image-w1280.jpg",
+            "https://m.media-amazon.com/images/M/MV5BM2NlNGNiZmItODFjNS00ZWIyLThiOTQtZDY5M2I1NzRiZDkxXkEyXkFqcGdeQWxiaWFtb250._V1_.jpg",
+            "https://whatson.bfi.org.uk/ArticleMedia/Images/WhatsOn%20images/202309/ghost-in-the-shell-01.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Django",
+        "Released": "18 sty 2013",
+        "Rating": "8.0",
+        "Runtime": "2h 45min",
+        "Genre": "Dramat,Western",
+        "Director": "Quentin Tarantino",
+        "Description": "Łowca nagród Schultz i czarnoskóry niewolnik Django wyruszają w podróż, aby odbić żonę tego drugiego z rąk bezlitosnego Calvina Candie'ego.",
+        "Imgs": [
+            "https://images.mubicdn.net/images/film/97340/cache-60345-1574090322/image-w1280.jpg",
+            "https://icdn.cda.pl/vid/thumbs/8229b0efff385ffc1f6c26025a2bbd16-64131.jpg_ooooxooxox_1280x720.jpg",
+            "https://whatmovieshouldiwatchtonight.com/wp-content/uploads/2018/04/django-unchained2-1280x720.jpg"
+        ],
+        "Price": 9.99
+    },
+    {
+        "Title": "Piękny Umysł",
+        "Released": "2001",
+        "Rating": "8.0",
+        "Runtime": "2h 15min",
+        "Genre": "Dramat,Biograficzny",
+        "Director": "Ron Howard",
+        "Description": "Geniusz matematyczny John Nash za wszelką cenę pragnie opracować teorię, dzięki której zostanie cenionym naukowcem. Przeszkodą staje się jego stopniowo rozwijająca choroba.",
+        "Imgs": [
+            "https://icdn.cda.pl/vid/thumbs/abeb51df346d7821b7e41c0d9cce374dc5bf3d121deb85cfd6c84dee24298553-28621.jpg_ooooxooxox_1280x720.jpg",
+            "https://programtv.naziemna.info/images/moviedb/00000/453/tlo/pi%C4%99kny-umys%C5%82---backdrop-w1280.jpg",
+            "https://www.nflix.pl/wp-content/uploads/2017/05/netflix-piekny-umysl-bg.jpg"
+        ],
+        "Price": 9.99
+    }
+]

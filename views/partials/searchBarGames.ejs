@@ -1,0 +1,51 @@
+<div class="container-fluid" style="width: 100%;">
+    <form class="d-flex" role="search" id="searchForm" action="/search">
+        <input class="form-control me-2" type="search" placeholder="Tytuł" aria-label="Search" id="searchValue"
+            name="search">
+        <button class="btn btn-success" type="submit">Wyszukaj</button>
+    </form>
+    <ul id="resultBox">
+
+    </ul>
+</div>
+<script>
+    const games = `<%-games%>`
+    let gameTitles = `<%-gameTitles%>`
+    gameTitles = gameTitles.split(',')
+    console.log(gameTitles)
+    const input = document.querySelector("#searchValue")
+    const resultBox = document.querySelector("#resultBox")
+    input.onkeyup = function () {
+        let result = []
+        let search = input.value
+        if (search.length) {
+            result = gameTitles.filter((keyword) => {
+                return keyword.toLowerCase().includes(search.toLowerCase())
+            })
+            console.log(result)
+        }
+        display(result)
+    }
+    function display(result) {
+        const content = result.map((list) => {
+            return '<li>' + list + '</li>'
+        })
+        resultBox.innerHTML = content.join(' ')
+    }
+
+</script>
+<style>
+    ul {}
+
+    ul li {
+        display: inline;
+        font-size: 12px;
+        list-style: none;
+        margin: 5px;
+    }
+
+    button:hover {
+        scale: 1.1;
+
+    }
+</style>

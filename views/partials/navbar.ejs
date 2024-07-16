@@ -1,0 +1,60 @@
+<nav class="navbar navbar-expand-xl navbar-dark sticky-top rounded-bottom nice-colors"
+    style="font-family: 'Rubik',sans-serif;opacity: 0.9;">
+    <div class="container-fluid  ">
+        <a class="navbar-brand" href="#"> <img class="mt-0" src="https://i.ibb.co/874801R/wypozyczalnia.png"
+                style="width: 110px; height: 70px;"></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav" style="font-size: 1.3em;">
+                <a class="nav-link" aria-current="page" href="/">Strona główna</a>
+                <a class="nav-link" href="/movies">Filmy</a>
+                <a class="nav-link" href="/games">Gry</a>
+
+                <%if(currentUser && currentUser.username !=='admin' ){%>
+                    <a class="nav-link " href="/rented/<%=currentUser._id %>">Twoja biblioteka</a>
+                    <a class="nav-link" href="/transactionHistory/<%=currentUser._id %>">Historia Wypożyczeń</a>
+                    <%} else if(currentUser && currentUser.username==='admin' ){%>
+
+                        <a class="nav-link " href="/addGame">Dodaj grę </a>
+                        <a class="nav-link" href="/addMovie">Dodaj film</a>
+                        <a class="nav-link" href="/users">Użytkownicy</a>
+                        <%} %>
+
+
+            </div>
+            <div class="navbar-nav ms-auto">
+                <%if(!currentUser){ %>
+                    <a class="nav-link" href="/register"><button class="btn btn-primary">Zarejestruj się</button></a>
+                    <a class="nav-link" href="/login"><button class="btn btn-success">Zaloguj się</button></a>
+                    <%}else{ %>
+
+                        <h4 class="h4 d-inline me-5 my-auto text-light">Witaj <%=currentUser.username %>
+                        </h4>
+                        <a class="nav-link" href="/logout"><button class="btn"
+                                style="background-color: #A9B3CE;">Wyloguj się</button></a>
+
+
+                        <%} %>
+
+            </div>
+
+        </div>
+    </div>
+</nav>
+<style>
+    .rounded-bottom {
+        border-bottom-left-radius: 12px;
+        border-bottom-right-radius: 12px;
+        -webkit-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+        -moz-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+        box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+    }
+
+    .nice-colors {
+        background-color: rgba(8, 50, 175);
+        background-image: linear-gradient(90deg, rgb(8, 50, 175) 0%, rgba(41, 53, 86, 1) 100%);
+    }
+</style>

@@ -1,0 +1,46 @@
+<% layout('layouts/boilerplate') %>
+    <h3 style="text-align: center;">Twoja biblioteka</h3>
+    <div id="carouselExample" class="carousel slide border border-dark rounded content">
+        <div class="carousel-inner rounded">
+            <%rentedItems.forEach((item,i)=>{ %>
+                <div class="carousel-item <%= i===0 ? 'active' : '' %>">
+                    <img src="<%=item.img %>" alt="" class="d-block w-100">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h2 class="fst-italic fw-bolder">
+                            <%=item.title %>
+                        </h2>
+                        <p class="fw-bold description" style="color: #d1cdcd;">
+                            <%=item.description %>
+                        </p>
+                    </div>
+                </div>
+                <%}) %>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
+    <style>
+        .content {
+            margin-top: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        @media(max-width: 1024px) {
+            .description {
+                font-size: 0.8rem;
+            }
+
+            .content {
+
+                margin-top: 30vh;
+                margin-bottom: 1rem;
+            }
+        }
+    </style>

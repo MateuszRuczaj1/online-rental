@@ -1,0 +1,28 @@
+<div class="row">
+    <div class="col-3 ms-2 mb-3">
+        <form action="/games/category">
+            <select class="form-select" name="categories" id="categories">
+                <option selected>Wybierz kategorię</option>
+                <option value="Akcja" name="category">Akcja</option>
+                <option value="sandbox" name="category">Sandbox</option>
+                <option value="RPG" name="category">RPG</option>
+                <option value="fantasy" name="category">Fantasy</option>
+                <option value="horror" name="category">Horror</option>
+                <option value="Sportowe" name="category">Sportowe</option>
+                <option value="przygodowe" name="category">Przygodowe</option>
+                <option value="TPP" name="category">TPP</option>
+                <option value="science-fiction">Science-fiction</option>
+                <option value="FPP">FPP</option>
+            </select>
+    </div>
+    <div class="col-3">
+        <button type="submit" class="btn btn-success">Filtruj</button>
+    </div>
+
+    </form>
+</div>
+<script>
+    document.querySelector('form').onsubmit = function () {
+        this.setAttribute('action', "/games/category" + document.querySelector(select[name = categories].value))
+    }
+</script>

@@ -1,0 +1,692 @@
+[
+    {
+        "title": "Assassin's Creed",
+        "releaseYear": "13 lis 2007",
+        "genre": [
+            "Akcja",
+            "sandbox",
+            "TPP"
+        ],
+        "rating": 7.6,
+        "platforms": [
+            "PC",
+            "XBOX360",
+            "PS3"
+        ],
+        "description": "Przygodowa gra akcji z elementami skradanki, wyprodukowana przez studio Ubisoft Montreal. Osią fabuły Assassin's Creed są trwające od stuleci zmagania pomiędzy Bractwem Asasynów, a Zakonem Templariuszy",
+        "imgs": [
+            "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1ejOTATiVr8Eb0Q68lnUKU/dd3cf9f5e0cd4696d00fc2ac8fd48395/AC1_game_overview_2.jpg",
+            "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/STNA8wMcQAfHTiYAOGfCF/911ea4ecd43cfd8594ab597e8980351a/AC1_game_overview_1.jpg",
+            "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/09/assassins-creed-2810927.jpg?tf=3840x"
+        ],
+        "price": 21.99
+    },
+    {
+        "title": "Red Dead Redemption 2",
+        "releaseYear": "26 paź 2018(PS4,XONE) | 5 lis 2019(PC)",
+        "genre": [
+            "Akcja",
+            "TPP",
+            "sandbox",
+            "western"
+        ],
+        "rating": 8.7,
+        "platforms": [
+            "PC",
+            "PS4",
+            "XBOX ONE"
+        ],
+        "description": "Trzecia część serii Red Dead, a zarazem prequel bestsellerowego Red Dead Redemption. W Red Dead Redemption 2 gracze trafiają na Dziki Zachód z 1899 roku, by w skórze Arthura Morgana stawić czoła problemom, jakie trapią gang Dutcha van der Lindego.",
+        "imgs": [
+            "https://metro.co.uk/wp-content/uploads/2018/02/49c7d29293f89dfef95969fde62f5c27e7cc780c.jpg?quality=90&strip=all",
+            "https://d1lss44hh2trtw.cloudfront.net/assets/article/2019/03/18/red-dead-redemption-2-graphics-may-have-been-downgraded_feature.jpg",
+            "https://digitalspyuk.cdnds.net/18/32/768x432/hd-aspect-1533831581-capture3.PNG"
+        ],
+        "price": 99.99
+    },
+    {
+        "title": "Gothic II: Noc Kruka",
+        "releaseYear": "22 sierpnia 2003",
+        "genre": [
+            "RPG",
+            "fantasy"
+        ],
+        "rating": 8.9,
+        "platforms": "PC",
+        "description": "Oficjalne rozszerzenie do drugiej części serii RPG akcji Gothic. Dodatek wzbogaca dzieło studia Piranha Bytes o zupełnie nową historię fabularną, nie związaną z wydarzeniami opisanymi w grze podstawowej. To jest dodatek do gry Gothic II.",
+        "imgs": [
+            "https://www.gry-online.pl/i/h/22/412366461.jpg",
+            "https://gamerbay.ru/wp-content/uploads/2020/03/1-15.jpg",
+            "https://xgp.pl/wp-content/uploads/2023/01/gothic-ii-1280x720.jpg.webp"
+        ],
+        "price": 9.99
+    },
+    {
+        "title": "Diablo IV",
+        "releaseYear": "6 cze 2023",
+        "genre": [
+            "RPG",
+            "fantasy",
+            "hack'and'slash"
+        ],
+        "rating": 5.3,
+        "platforms": [
+            "PC",
+            "PS4",
+            "XBOX ONE",
+            "PS5",
+            "XBOX SERIES X/S"
+        ],
+        "description": "Diablo 4 to RPG typu hack-n-slash od studia Blizzard Entertainment. Gracz wybiera jedną z kilku dostępnych postaci, a następnie wyrusza w świat, aby walczyć z hordami potworów. Gra powraca do mrocznego klimatu pierwszych dwóch odsłon i kładzie duży nacisk na aspekt sieciowy.",
+        "imgs": [
+            "https://cdn.wallpapersafari.com/20/53/kHdaQ2.jpg",
+            "https://images.gram.pl/news/crur20230608193312575udnv.jpg",
+            "https://img.mmorpg.org.pl/img/upload/posts/bdb165ca-7381-497d-8c79-e15b8cbc86bf.jpg"
+        ],
+        "price": 249.99
+    },
+    {
+        "title": "Wiedźmin 3 Dziki Gon",
+        "releaseYear": "19 maj 2015",
+        "genre": [
+            "RPG",
+            "TPP",
+            "fantasy"
+        ],
+        "rating": 9.2,
+        "platforms": [
+            "PC",
+            "PS4",
+            "XBOX SERIES X/S",
+            "SWITCH",
+            "PS5",
+            "XBOX ONE"
+        ],
+        "description": "Gra action RPG, stanowiąca trzecią część przygód Geralta z Rivii. Podobnie jak we wcześniejszych odsłonach cyklu, Wiedźmin 3: Dziki Gon bazuje na motywach twórczości literackiej Andrzeja Sapkowskiego, jednak nie jest bezpośrednią adaptacją żadnej z jego książek.",
+        "imgs": [
+            "https://www.miastogier.pl/baza/Encyklopedia/gry/News/20.05.2015/nws_wiedzmin3_miniMG.jpg",
+            "https://www.gry-online.pl/i/h/22/349359305.jpg",
+            "https://cdn1.naekranie.pl/wp-content/uploads/2018/10/witcher3.jpg"
+        ],
+        "price": 59.99
+    },
+    {
+        "title": "Dark Souls",
+        "releaseYear": "22 wrz 2011(PS3) | 4 paź 2011(XBOX 360) | 21 sie 2012(PC)",
+        "genre": [
+            "RPG",
+            "TPP",
+            "fantasy"
+        ],
+        "rating": 8.7,
+        "platforms": [
+            "PS3",
+            "XBOX360",
+            "PC"
+        ],
+        "description": "Utrzymana w konwencji dark fantasy gra z gatunku RPG akcji. Tytuł wyprodukowany został przez japońskie studio From Software znane m.in. z Ninja Blade, Demon's Souls oraz serii Armored Core.",
+        "imgs": [
+            "https://store-images.s-microsoft.com/image/apps.21855.69479559702140610.dad571dd-6b2c-42a6-be9e-fd11d891d66c.e16a97f5-c50d-4fe7-91fd-1ed4a19aaca7?q=90&w=480&h=270",
+            "https://assets1.ignimgs.com/thumbs/userUploaded/2016/3/21/sif-1458578125439.jpg",
+            "https://steamuserimages-a.akamaihd.net/ugc/780728477808625685/45EA718D26DD97452B081F3C657556957EB0A226/?imw=1024&imh=578&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+        ],
+        "price": 39.99
+    },
+    {
+        "title": "The Last Of Us",
+        "releaseYear": "14 cze 2013",
+        "genre": [
+            "Akcja",
+            "postapokalipsa",
+            "horror"
+        ],
+        "rating": 9.0,
+        "platforms": "PS3",
+        "description": "Przygodowa gra akcji w konwencji postapokaliptycznego survival horroru, stworzona przez studio deweloperskie Naughty Dog (znane przede wszystkim z serii Uncharted) przy wsparciu wydawniczym firmy Sony Computer Entertainment.",
+        "imgs": [
+            "https://www.gamespot.com/a/uploads/original/gamespot/images/2012/155/1952404-652686_20120604_008.jpg",
+            "https://cdn.mos.cms.futurecdn.net/acf8ea9557a9cfcc3a92832860380b20.jpg",
+            "https://cdn-wp.thesportsrush.com/2022/12/0ccd0863-wallpapersden.com_the-last-of-us_1280x720.jpg?w=3840&q=60"
+        ],
+        "price": 49.99
+    },
+    {
+        "title": "Ghost of Tsushima",
+        "releaseYear": "17 lipca 2020",
+        "genre": [
+            "Akcja",
+            "TPP",
+            "sandbox",
+            "skradanki"
+        ],
+        "rating": 8.7,
+        "platforms": [
+            "PS4"
+        ],
+        "description": "Sandbox akcji stworzony przez studio Sucker Punch. Gracz przenosi się w nim na tytułową japońską wyspę Cuszima (Tsushima), gdzie jako XIII-wieczny samuraj toczy walkę z mongolskim najeźdźcą, by pomścić śmierć przyjaciół i uratować ojczyznę.",
+        "imgs": [
+            "https://assetsio.reedpopcdn.com/ghost-of-tsushima-review-a-likeable-if-clunky-hollywood-blockbuster-1594727460287.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "https://whatifgaming.com/wp-content/uploads/2020/07/ghost-of-tsushima-1.jpg",
+            "https://www.gry-online.pl/i/h/22/363184338.jpg"
+        ],
+        "price": 185.99
+    },
+    {
+        "title": "God Of War",
+        "releaseYear": "20 kwi 2018(PS4) | 14 sty 2022(PC)",
+        "genre": [
+            "Akcja",
+            "przygodowe",
+            "TPP"
+        ],
+        "rating": 9.0,
+        "platforms": [
+            "PS4",
+            "PC"
+        ],
+        "description": "Czwarta pełnoprawna odsłona słynnej serii God of War, stanowiącej od lat jeden z najważniejszych tytułów ekskluzywnych konsol Sony. Kratos, po wypełnionych gniewem i szaleństwem greckich przygodach zwieńczonych zniszczeniem Olimpu, ucieka na daleką Północ, szukając wytchnienia.",
+        "imgs": [
+            "https://images.hdqwalls.com/download/god-of-war-4-2018-oo-1280x720.jpg",
+            "https://www.gry-online.pl/i/h/22/404072194.jpg",
+            "https://techraptor.net/sites/default/files/styles/image_header/public/2021-10/God%20of%20War%202018%20Troll.jpg?itok=eu4pRGA0"
+        ],
+        "price": 109.99
+    },
+    {
+        "title": "Star Wars Jedi: Upadły Zakon",
+        "releaseYear": "15 lis 2019(PC,PS4, XBOX ONE) | 11 cze 2021(PS5, XBOX SERIES X/S)",
+        "genre": [
+            "Akcja",
+            "TPP",
+            "science-fiction "
+        ],
+        "rating": 7.7,
+        "platforms": [
+            "PC",
+            "PS4",
+            "XBOX SERIES X/S",
+            "PS5"
+        ],
+        "description": "Przygodowa gra akcji TPP w świecie Gwiezdnych wojen, której fabuła rozgrywa się pomiędzy trzecim a czwartym epizodem filmowej sagi. Gracze wcielają się w Cala, młodego Jedi, który ukrywa się przed ścigającymi go agentami Imperium. Deweloperem jest Respawn Entertainment.",
+        "imgs": [
+            "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/jedi-fallen-orderWide-1920x1080-28eae371dbae080e2fc0df646fa42917.jpg",
+            "https://assets.rockpapershotgun.com/images/2019/11/star-wars-jedi-fallen-order-review-5.jpg",
+            "https://cdn.mos.cms.futurecdn.net/xbjeegCcsmNYKaKNGxbbeL-1200-80.jpg"
+        ],
+        "price": 99.99
+    },
+    {
+        "title": "Sekiro: Shadows Die Twice",
+        "releaseYear": "22 mar 2019",
+        "genre": [
+            "Akcja",
+            "fantasy",
+            "TPP"
+        ],
+        "rating": 8.9,
+        "platforms": [
+            "PC",
+            "XBOX ONE",
+            "PS4"
+        ],
+        "description": "Przygodowa gra akcji od studia FromSoftware, która przenosi nas do alternatywnej wersji XVI-wiecznej Japonii. Sekiro: Shadows Die Twice stawia na eksplorację rozbudowanych poziomów oraz skradanie się zamiennie z toczeniem walk przypominających serię Dark Souls.",
+        "imgs": [
+            "https://anime24.pl/sites/default/files/inline-images/sekiro-shadows-die-twice-wallpaper.jpg",
+            "https://cdn.akamai.steamstatic.com/steam/apps/814380/ss_0f7b0f8ed9ffc49aba26f9328caa9a1d59ad60f0.1920x1080.jpg?t=1678991267",
+            "https://images.pushsquare.com/311f52e79015d/sekiro-shadows-die-twice-ps4-playstation-4.large.jpg"
+        ],
+        "price": 149.99
+    },
+    {
+        "title": "Amnesia: Mroczny Obłęd",
+        "releaseYear": "8 września 2010",
+        "genre": "Horror",
+        "rating": 8.0,
+        "platforms": "PC",
+        "description": "Zrealizowana w konwencji survival horroru mroczna przygodówka akcji, za której powstanie gry odpowiada ekipa studia Frictional Games – twórcy cenionej serii Penumbra. W grze wcielamy się w postać mężczyzny, który z własnej inicjatywy stracił pamięć.",
+        "imgs": [
+            "https://grapodpada.pl/wp-content/uploads/2021/10/Amnesia-Mroczny-Obled.jpg",
+            "https://jarock.pl/wp-content/uploads/2016/10/Amnesia_Mroczny_Obled_poradnik_14.jpg",
+            "https://ocdn.eu/pulscms-transforms/1/mXHktkpTURBXy9mMDYzYzU3MDM2NWQ2YzdjMWRkMWQyZWQ4NWJhNjIxZi5qcGeSlQMRAM0CSs0BSpMFzQSwzQKj"
+        ],
+        "price": 19.99
+    },
+    {
+        "title": "Elden Ring",
+        "releaseYear": "25 lutego 2022",
+        "genre": [
+            "RPG",
+            "fantasy"
+        ],
+        "rating": 9.2,
+        "platforms": [
+            "PC",
+            "XBOX ONE",
+            "PS4",
+            "XBOX SERIES X/S",
+            "PS5"
+        ],
+        "description": "Elden Ring to gra RPG akcji autorstwa japońskiego studia FromSoftware. Tym razem twórcy postanowili nawiązać współpracę ze znaną osobistością spoza branży gier wideo – pisarzem George’em R. R. Martinem, autorem sagi Pieśń Lodu i Ognia.",
+        "imgs": [
+            "https://xgp.pl/wp-content/uploads/2023/05/elden-ring-shadow-of-the-erdtree.jpg.webp",
+            "https://www.gry-online.pl/i/h/22/378820810.jpg",
+            "https://www.miastogier.pl/baza/Encyklopedia/gry/News/02.03.2022/nws_eldenringgga.jpg"
+        ],
+        "price": 209.99
+    },
+    {
+        "title": "Grand Theft Auto IV",
+        "releaseYear": "29 kwi 2008(XBOX 360,PS3) | 2 gru 2008(PC)",
+        "genre": [
+            "Akcja",
+            "sandbox",
+            "TPP"
+        ],
+        "rating": 8.8,
+        "platforms": [
+            "PC",
+            "XBOX360",
+            "PS3"
+        ],
+        "description": "Grand Theft Auto IV to gra akcji, będąca kolejną odsłoną bestsellerowego i kontrowersyjnego zarazem cyklu, swoimi korzeniami sięgającego 1997 roku. Niniejszy tytuł powstał w dziesiąte urodziny wymienionej serii, ukazującej losy poszczególnych przestępców, którzy zaczynając od zwykłego chłopca na posyłki i speca od brudnej roboty, wspinają się na coraz wyższe pozycje w gangsterskim świecie.",
+        "imgs": [
+            "https://www.hakux.xyz/wp-content/uploads/2021/10/gta-4.jpg",
+            "https://procesor.pl/img/galleries/g.jpg",
+            "https://vistapointe.net/images/grand-theft-auto-iv-wallpaper-4.jpg"
+        ],
+        "price": 49.99
+    },
+    {
+        "title": "Hollow Knight",
+        "releaseYear": "24 kwi 2017(PC) | 12 cze 2018(SWITCH) | 25 wrz 2018(PS4,XBOX ONE)",
+        "genre": [
+            "Zręcznościowe",
+            "platformówki",
+            "metroidvania"
+        ],
+        "rating": 8.6,
+        "platforms": [
+            "PC",
+            "SWITCH",
+            "PS4",
+            "XBOX ONE"
+        ],
+        "description": "Należąca do gatunku metroidvanii dwuwymiarowa platformówka autorstwa niezależnego Team Cherry. Akcja Hollow Knight przenosi nas do fantastycznego świata: podziemi, jakie rozciągają się pod miasteczkiem Dirtmouth.",
+        "imgs": [
+            "https://trumpwallpapers.com/wp-content/uploads/Hollow-Knight-Wallpaper-22-1280x720-1.jpg",
+            "https://media.gq.com/photos/5b4f85bf80d4544fbe01ecc9/16:9/w_2560%2Cc_limit/hollow-night-review-gq-1.jpg",
+            "https://static.muve.pl/uploads/product-gallery/0147/0919/ss-47f3523dbea462aff2ca4bc9f605faaf80a792b2.jpg"
+        ],
+        "price": 39.99
+    },
+    {
+        "title": "The Elder Scrolls V: Skyrim",
+        "releaseYear": "11 lis 2011",
+        "genre": [
+            "RPG",
+            "fantasy",
+            "sandbox"
+        ],
+        "rating": 9.1,
+        "platforms": "PC",
+        "description": "The Elder Scrolls V: Skyrim to kolejna część serii cRPG autorstwa zespołu Bethesda Softworks. Ponownie odwiedzamy w niej kontynent Tamriel, a fabuła tym razem obraca się wokół powrotu do tej krainy pradawnej rasy smoków. ",
+        "imgs": [
+            "https://wallpaperswide.com/download/the_elder_scrolls_v_skyrim-wallpaper-1280x720.jpg",
+            "https://d-art.ppstatic.pl/kadry/k/r/2/c5/45/4eeb2b5cc73b1_o_full.jpg",
+            "https://sm.ign.com/t/ign_pl/screenshot/default/ygdukso3fgzgv769figsmc_7x29.1280.jpg"
+        ],
+        "price": 79.99
+    },
+    {
+        "title": "Assassin's Creed Valhalla ",
+        "releaseYear": "10 lis 2020",
+        "genre": [
+            "RPG",
+            "TPP",
+            "sandbox"
+        ],
+        "rating": 7.6,
+        "platforms": [
+            "PC",
+            "PS4",
+            "XBOX ONE",
+            "XBOX SERIES X/S",
+            "PS5"
+        ],
+        "description": "Dwunasta główna odsłona bestsellerowego cyklu od firmy Ubisoft. Assassin's Creed: Valhalla to gra RPG akcji przenosząca nas do IX-wiecznej Anglii. W trakcie zabawy wcielamy się w postać o imieniu Eivor, której klan wikingów szuka dla siebie nowego domu.",
+        "imgs": [
+            "https://gamekey.pl/wp-content/uploads/2020/11/Assassins-Creed-AC-Valhalla-Patch-Notes-1280x720-1.jpg",
+            "https://planetagracza.pl/wp-content/uploads/2020/05/Assassins-Creed-Valhalla-screenshots-5.jpg",
+            "https://sm.ign.com/ign_in/screenshot/a/assassins-/assassins-creed-valhalla-first-screenshots_2epf.jpg"
+        ],
+        "price": 149.99
+    },
+    {
+        "title": "Watch Dogs",
+        "releaseYear": "27 maj 2014",
+        "genre": [
+            "Akcja",
+            "sandbox",
+            "TPP"
+        ],
+        "rating": 6.7,
+        "platforms": [
+            "PC",
+            "XBOX360",
+            "PS3",
+            "PS4",
+            "XBOX ONE"
+        ],
+        "description": "Watch Dogs to gra akcji z otwartym, nafaszerowanym technologicznymi nowinkami Chicago, w której najpotężniejszą bronią bohatera stają się umiejętności hakerskie.",
+        "imgs": [
+            "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WDOG_STD_Store_Landscape_2580x1450-2580x1450-3fd07dcc02e65aca288d794c177c7512.jpg",
+            "https://i.ytimg.com/vi/FcMRkyoHKeA/maxresdefault.jpg",
+            "https://gamespot.com/a/uploads/original/1493/14930800/2305562-9885071597-70452.jpg"
+        ],
+        "price": 55.99
+    },
+    {
+        "title": "Cyberpunk 2077",
+        "releaseYear": "10 gru 2020(PC,PS4,XBOX ONE) | 15 lut 2022(PS5,XBOX SERIES X/S)",
+        "genre": [
+            "Akcja",
+            "RPG",
+            "TPP",
+            "cyberpunk"
+        ],
+        "rating": 7.6,
+        "platforms": [
+            "PC",
+            "PS4",
+            "XBOX ONE",
+            "PS5",
+            "XBOX SERIES X/S"
+        ],
+        "description": "Cyberpunk 2077 jest pierwszoosobową grą RPG z otwartym światem, wzbogaconą o elementy FPS-ów. Za jej stworzenie odpowiada polskie studio CD Projekt RED, które zdobyło międzynarodową sławę dzięki bestsellerowemu cyklowi Wiedźmin. Tytuł oparto na licencji Cyberpunka 2020 – gry fabularnej stworzonej w 1990 roku przez Mike’a Pondsmitha",
+        "imgs": [
+            "https://wallscloud.net/img/resize/1280/720/MM/2019-08-10-1022934.jpg",
+            "https://gameranx.com/wp-content/uploads/2020/12/Cyberpunk2077-2-1-1024x576.jpg",
+            "https://gameplay.pl/galeria/ilustracja/225_346024118.jpg"
+        ],
+        "price": 209.99
+    },
+    {
+        "title": "Dying Light 2",
+        "releaseYear": "4 lut 2022",
+        "genre": [
+            "FPP",
+            "zombie",
+            "postapokalipsa"
+        ],
+        "rating": 8.2,
+        "platforms": [
+            "PC",
+            "PS4",
+            "XBOX ONE",
+            "PS5",
+            "XBOX SERIES X/S"
+        ],
+        "description": "Dying Light 2 to pierwszoosobowa gra akcji z otwartym światem, w której przemierzamy miasto opanowane przez zombie. Produkcja jest kontynuacją hitowego Dying Light z 2015 roku. Znajdziemy w niej zarówno fabularny tryb jednoosobowy, jak i multiplayer. Za jej stworzenie odpowiada polskie studio Techland, znane m.in. z Dead Island czy strzelanek z serii Call of Juarez.",
+        "imgs": [
+            "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DyingLight2StayHuman_Techland_S3_2560x1440-f1dcd15207f091674615ccb4bd9dc3c7",
+            "https://cdn2.unrealengine.com/dl2-key-art-1st-anniversary-hero-3840x-2160-v1-3840x2160-a4528edeab6a.jpg",
+            "https://ixbt.online/gametech/covers/2022/02/03/nova-filepond-qSL9Ec.png"
+        ],
+        "price": 190.99
+    },
+    {
+        "title": "FIFA 23",
+        "releaseYear": "30 wrz 2022",
+        "genre": [
+            "Sportowe",
+            "piłka nożna"
+        ],
+        "rating": 4.8,
+        "platforms": [
+            "PC",
+            "PS4",
+            "XBOX ONE",
+            "SWITCH",
+            "PS5",
+            "XBOX SERIES X/S"
+        ],
+        "description": "FIFA 23 to trzydziesta główna odsłona serii gier piłkarskich tworzonych przez studio EA Sports. Zadaniem gracza jest wygrywanie meczów piłki nożnej i zdobywanie trofeów, mających przynieść chwałę jednej z setek licencjonowanych drużyn.",
+        "imgs": [
+            "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt61cc551123b172ee/62e62b89836b3a10a09f8ca2/goal---web-two-way-split--bf53cc91-644a-42fb-b55c-f350c830a2e3.jpeg?auto=webp&format=pjpg&width=3840&quality=60",
+            "https://bi.im-g.pl/im/18/7c/1b/z28823064IER,Chorwacja-w-FIFA-23.jpg",
+            "https://www.digiseller.ru/preview/911423/p1_3856892_f857ea40.jpg"
+        ],
+        "price": 209.99
+    },
+    {
+        "title": "Dziedzictwo Hogwartu",
+        "releaseYear": "10 lut 2023(PC,PS5,XBOX SERIES X/S) | 5 maj 2023(PS4,XBOX ONE)",
+        "genre": [
+            "RPG",
+            "fantasy"
+        ],
+        "rating": 7.9,
+        "platforms": [
+            "PC",
+            "PS5",
+            "XBOX SERIES X/S",
+            "PS4",
+            "XBOX ONE"
+        ],
+        "description": "Hogwarts Legacy to trzecioosobowa gra RPG akcji z otwartym światem, która została osadzona w uniwersum Harry’ego Pottera. Wcielamy się w młodego czarodzieja (lub czarodziejkę), który w XIX wieku trafia do tytułowej szkoły magii i czarodziejstwa.",
+        "imgs": [
+            "https://gaming.komputronik.pl/wp-content/uploads/2023/02/Hogwarts-Legacy-mozna-juz-grac-768x432.jpg",
+            "https://static.kinguin.net/cdn-cgi/image/w=750,q=80,fit=scale-down,f=auto/media/images/products/6307b260ccdc6a000191c9f3_28298e33b3a7440c3c43d5e88ebd02e2.jpg",
+            "https://2game.com/wp/wp-content/uploads/2023/02/D0gC8N3n_2x.jpg"
+        ],
+        "price": 249.99
+    },
+    {
+        "title": "No Man's Sky",
+        "releaseYear": "9 sie 2016",
+        "genre": [
+            "Akcja",
+            "FPP",
+            "TPP",
+            "sandbox"
+        ],
+        "rating": 6.7,
+        "platforms": [
+            "PC",
+            "PS4",
+            "XBOX ONE",
+            "XBOX SERIES X/S",
+            "PS5",
+            "SWITCH"
+        ],
+        "description": "Utrzymana w stylistyce science fiction, sandboxowa gra akcji. Za powstanie No Man's Sky odpowiada Hello Games, znane wcześniej z barwnej zręcznościówki Joe Danger.",
+        "imgs": [
+            "https://image.api.playstation.com/vulcan/ap/rnd/202009/2310/Xd3FiazVhAP0kbx20yLqFg2E.jpg",
+            "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f681861f0a653b31a3b06381e7fd4e5c.jpg",
+            "https://news.xbox.com/en-us/wp-content/uploads/sites/2/2023/08/No-Mans-Sky-Echoes-Screen-3-cd1e193c7c7891c878a0.jpg"
+        ],
+        "price": 39.99
+    },
+    {
+        "title": "Portal 2",
+        "releaseYear": "19 kwi 2011",
+        "genre": [
+            "Logiczne",
+            "FPP",
+            "science fiction"
+        ],
+        "rating": 9.1,
+        "platforms": [
+            "PC",
+            "XBOX360",
+            "PS3"
+        ],
+        "description": "Portal 2 to oryginalna produkcja należąca do gatunku gier logicznych ",
+        "imgs": [
+            "https://gamingspecials.co.za/wp-content/uploads/2022/06/portal22.png",
+            "https://static01.nyt.com/images/2011/05/10/arts/portal/portal-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+            "https://m.media-amazon.com/images/M/MV5BNDQxMTUwNTczOF5BMl5BanBnXkFtZTcwMjE3MTYwNQ@@._V1_.jpg"
+        ],
+        "price": 19.99
+    },
+    {
+        "title": "Farming Simulator 22",
+        "releaseYear": "22 lis 2021",
+        "genre": [
+            "Symulacje",
+            "ekonomiczne"
+        ],
+        "rating": 6.7,
+        "platforms": [
+            "PC",
+            "PS4",
+            "XBOX ONE",
+            "PS5",
+            "XBOX SERIES X/S"
+        ],
+        "description": "Farming Simulator 22 to dziewiąta głowna odsłona bestsellerowego cyklu symulatorów rolniczych, zapoczątkowanego w 2008 roku",
+        "imgs": [
+            "https://xgp.pl/wp-content/uploads/2022/07/farming-simulator-22-1280x720.jpg.webp",
+            "https://www.farming-simulator.com/cms/uploads/news_616d39ed66bea.jpg",
+            "https://www.gry-online.pl/galeria/filmy/960x540/535769531.jpg"
+        ],
+        "price": 139.99
+    },
+    {
+        "title": "Bloodborne",
+        "releaseYear": "24 marca 2015",
+        "genre": [
+            "RPG",
+            "TPP",
+            "fantasy",
+            "horror"
+        ],
+        "rating": 9.1,
+        "platforms": [
+            "PS4"
+        ],
+        "description": "W przeciwieństwie do poprzednich dzieł japońskiego studia From Software, rozgrywających się w quasi-średniowiecznych realiach, Bloodborne przenosi graczy do mrocznego świata fantasy, zrealizowanego w XIX-wiecznej wiktoriańskiej stylistyce",
+        "imgs": [
+            "http://poradyitrikigier.com/wp-content/uploads/2023/08/1691162929_Jestesmy-o-krok-blizej-Bloodborne-na-PC.jpg",
+            "https://planetagracza.pl/wp-content/uploads/2021/10/bloodborne-pg.jpg",
+            "https://wallpapers.com/images/hd/bloodborne-old-yharnam-corpses-nbbal0ky9rxxkm1k.jpg"
+        ],
+        "price": 79.99
+    },
+    {
+        "title": "Until Dawn",
+        "releaseYear": "25 sierpnia 2015",
+        "genre": [
+            "Przygodowe",
+            "horror"
+        ],
+        "rating": 8.1,
+        "platforms": [
+            "PC",
+            "XBOX360",
+            "PS3"
+        ],
+        "description": "Trójwymiarowa gra przygodowa zrealizowana w konwencji horroru. Gracze rozpoczynający rozgrywkę nie powinni oczekiwać psychologicznego horroru, stopniowo budującego napięcie dzięki odpowiedniemu klimatowi",
+        "imgs": [
+            "https://oyster.ignimgs.com/mediawiki/apis.ign.com/until-dawn/d/d9/UNTIL_DAWN.PS4.HD_SCREENCAPS.BUTTERFLYEFFECT.TITLE.1.jpg",
+            "https://pg-im.wpcdn.pl/83/7f/11/z18349187O,Until-Dawn.jpg",
+            "https://www.miastogier.pl/baza/Encyklopedia/gry/News/15.02.2022/nws_until_dawn_001.jpg"
+        ],
+        "price": 79.99
+    },
+    {
+        "title": "Minecraft",
+        "releaseYear": "18 lis 2011",
+        "genre": [
+            "Przygodowe",
+            "sandbox"
+        ],
+        "rating": 8.0,
+        "platforms": [
+            "PC",
+            "XBOX360",
+            "PS3",
+            "PS4",
+            "XBOX ONE",
+            "SWITCH"
+        ],
+        "description": "Minecraft to unikatowa produkcja, która wymyka się klasycznej klasyfikacji gatunkowej. Gra opiera się na mechanice craftingu i oferuje olbrzymią swobodę - gracze mogą tworzyć przeróżne przedmioty, budynki, konstrukcje i lokacje, a nawet całe miasta",
+        "imgs": [
+            "https://wallpapers.com/images/hd/1280x720-minecraft-graphic-promo-6wurgq1z042gezkt.jpg",
+            "https://i.wpimg.pl/1280x/filerepo.grupawp.pl/api/v1/display/embed/f75b939c-58c4-4020-b56d-54e2815978be",
+            "https://wallpaperaccess.com/full/171305.jpg"
+        ],
+        "price": 49.99
+    },
+    {
+        "title": "Dragon Age: Inkwizycja",
+        "releaseYear": "18 lis 2014",
+        "genre": [
+            "RPG",
+            "TPP",
+            "fantasy"
+        ],
+        "rating": 8.5,
+        "platforms": [
+            "PC",
+            "XBOX360",
+            "PS3",
+            "PS4",
+            "XBOX ONE"
+        ],
+        "description": "Dragon Age: Inkwizycja ponownie zabiera gracza do świata Thedas, który po wydarzeniach z poprzednich odsłon pogrąża się w chaosie. Akcja rozpoczyna się 10 lat po finale gry i Dragona Age: Początek i kilka miesięcy po Dragon Age II. Królestwo Ferelden nie zdążyło odzyskać pełni sił po inwazji Mrocznych Pomiotów, a imperium Orlais uwikłane jest w wojnę domową",
+        "imgs": [
+            "https://cdn.wallpapersafari.com/27/97/QbVgqC.jpg",
+            "https://s2-techtudo.glbimg.com/_sStEPDgcfov4xQMZLpoj-RrNx0=/0x0:695x391/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/W/f/CxQNKaRBOB3iPEpYt70A/2014-07-11-dragon-age-inquisition-vasto-mundo-aberto.jpg",
+            "https://assets.rpgsite.net/images/images/000/026/311/original/DAI_Jun92014_16.jpg"
+        ],
+        "price": 99.99
+    },
+    {
+        "title": "Mass Effect: Legendary Edition",
+        "releaseYear": "14 maj 2021",
+        "genre": [
+            "Akcja",
+            "sandbox",
+            "TPP"
+        ],
+        "rating": 7.6,
+        "platforms": [
+            "PC",
+            "PS4",
+            "PS5",
+            "XBOX ONE",
+            "XBOX SERIES X/S"
+        ],
+        "description": "Zestaw zremasterowanej trylogii RPG Mass Effect. Mass Effect:Legendary Edition pozwala nam przeżyć przygody komandora Sheparda i prześledzić jego przygotowania do batalii pomiędzy rasami zamieszkującymi galaktykę a złowrogimi Żniwiarzami",
+        "imgs": [
+            "https://cdn.cloudflare.steamstatic.com/steam/apps/1328670/capsule_616x353.jpg?t=1669773470",
+            "https://npr.brightspotcdn.com/legacy/sites/kmuw/files/202105/mass-effect-legendary-edition.jpeg",
+            "https://www.gry-online.pl/Galeria/Html/Wiadomosci/106237757.jpg"
+        ],
+        "price": 199.99
+    },
+    {
+        "title": "Call of Duty: Black Ops - Cold War",
+        "releaseYear": "13 lis 2020",
+        "genre": [
+            "Akcja",
+            "FPS"
+        ],
+        "rating": 7.2,
+        "platforms": [
+            "PC",
+            "PS4",
+            "PS5",
+            "XBOX ONE",
+            "XBOX SERIES X/S"
+        ],
+        "description": "Siedmnasta główna część bestsellerowej serii FPS-ów. Akcję Call of Duty: Black Ops - Cold War osadzono w czasach zimnej wojny. W trakcie zabawy wcielamy się w samodzielnie stworzoną postać, a naszym zadaniem jest powstrzymanie tajemniczego agenta KGB",
+        "imgs": [
+            "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/zeus/common/social-share/zeus-social-share.jpg",
+            "https://images.hdqwalls.com/download/call-of-duty-black-ops-cold-war-4k-game-4x-1280x720.jpg",
+            "https://images.squarespace-cdn.com/content/v1/59af2189c534a58c97bd63b3/1614798179799-GHRQBHT5UO1CB5VKQX2U/Call+of+Duty+Black+Ops+Cold+War.jpg?format=2500w"
+        ],
+        "price": 199.99
+    }
+]
